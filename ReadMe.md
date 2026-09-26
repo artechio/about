@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>سجاد تقی‌زاده</strong><br />
-  سجاد از سجد — آنکه سر فرود می‌آورد. تقی‌زاده — زادهٔ تقی.
-</p>
-
-<p align="center">
   I’m Sajjad Taghizade — a designer, builder, and puzzle-solver.<br />
   I taught myself everything I know, not to prove a point, but because I was too curious to stop.<br />
   I don’t follow paths. I draw them.
@@ -16,10 +11,6 @@
 <p align="center">
   Artech I/O is that drawing: a one-person studio with the soul of an agency,<br />
   where design and code are the same gesture, and the work is made from scratch.
-</p>
-
-<p align="center">
-  <em>کنجکاوی رهایم نکرد. مسیر را دنبال نمی‌کنم — می‌کشم.</em>
 </p>
 
 <table align="center">
@@ -36,20 +27,6 @@
     <td><a href="https://artechio.com/">Artech I/O</a></td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://artechio.com/">Fitvibe</a>
-  &nbsp;·&nbsp;
-  <a href="https://artechio.com/">Shahr Bank</a>
-  &nbsp;·&nbsp;
-  <a href="https://artechio.com/">VenzCafe</a>
-  &nbsp;·&nbsp;
-  <a href="https://artechio.com/">Uncle Boutique</a>
-  &nbsp;·&nbsp;
-  <a href="https://artechio.com/">Ivan Carpet</a>
-  &nbsp;·&nbsp;
-  <a href="https://artechio.com/">Mehrairia Saffron</a>
-</p>
 
 <p align="center">
   <a href="https://artechio.com/">artechio.com</a>
