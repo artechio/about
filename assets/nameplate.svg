@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" width="1100" height="560" role="img" aria-labelledby="nameplateTitle nameplateDesc">
+  <title id="nameplateTitle">Sajjad Taghizade  Artech I/O</title>
+  <desc id="nameplateDesc">Wordmark. Artech I/O, art and technology. Sajjad Taghizade.</desc>
+  <rect width="1100" height="560" fill="#f4efe6"/>
+  <rect x="22" y="22" width="1056" height="516" fill="none" stroke="#1a1612" stroke-width="1.25"/>
+  <rect x="30" y="30" width="1040" height="500" fill="none" stroke="#1a1612" stroke-width="0.5"/>
+  <text
+    x="550"
+    y="118"
+    text-anchor="middle"
+    fill="#1a1612"
+    font-family="Georgia, 'Palatino Linotype', Palatino, 'Times New Roman', serif"
+    font-size="15"
+    letter-spacing="4.6"
+  >ARTECH I/O  ·  ART × TECHNOLOGY</text>
+  <line x1="150" y1="148" x2="950" y2="148" stroke="#1a1612" stroke-width="0.75"/>
+  <text
+    x="550"
+    y="292"
+    text-anchor="middle"
+    textLength="820"
+    lengthAdjust="spacing"
+    fill="#1a1612"
+    font-family="Georgia, 'Palatino Linotype', Palatino, 'Times New Roman', serif"
+    font-size="108"
+  >SAJJAD</text>
+  <text
+    x="550"
+    y="392"
+    text-anchor="middle"
+    textLength="820"
+    lengthAdjust="spacing"
+    fill="#1a1612"
+    font-family="Georgia, 'Palatino Linotype', Palatino, 'Times New Roman', serif"
+    font-size="68"
+  >TAGHIZADE</text>
+  <line x1="150" y1="442" x2="950" y2="442" stroke="#1a1612" stroke-width="0.75"/>
+</svg>
