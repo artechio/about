@@ -5,6 +5,12 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/identity-light.svg">
+  <img src="assets/identity-dark.svg" alt="Fig. 00, whoami. A halftone portrait rendered as a 56 by 56 grid of dots, beside a terminal readout: name Sajjad Taghizade, handle artechio, practice design and engineering by one person, studio Artech I/O after hours, base Global, on GitHub since 2014, focus on interfaces, brand, web, extensions and desktop, stance local-first and private by default. Self-taught, and still too curious to stop." width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/statement-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/statement-light.svg">
   <img src="assets/statement-dark.svg" alt="Fig. 01, Practice. One hand draws it. The same hand builds it. The first line is dimensioned as Design, the second as Engineering, and the distance between them is measured as a handoff of zero pixels." width="100%">
